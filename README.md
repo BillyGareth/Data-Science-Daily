@@ -1,1 +1,1 @@
-# Data-Science-Daily
+# Daily Dose of Data Science
